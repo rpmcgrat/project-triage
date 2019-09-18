@@ -1,6 +1,6 @@
 [
   {
-    "patientGuid": "SOME-REALLY-LONG-1234",
+    "patientGuid": "1234",
     "firstName": "Sylvia",
     "lastName": "Hernandez",
     "dob": "2012-09-01",
@@ -8,7 +8,7 @@
     "priority": "high"
   },
   {
-    "patientGuid": "SOME-REALLY-SHORT-5678",
+    "patientGuid": "5678",
     "firstName": "Vish",
     "lastName": "Balasubramanian",
     "dob": "1950-12-15",
@@ -16,11 +16,11 @@
     "priority": "medium"
   },
   {
-    "patientGuid": "SOME-UNIQUE-ABCDE1",
+    "patientGuid": "ABCD",
     "firstName": "John",
     "lastName": "Doe",
     "dob": "1997",
-    "sexAtBirth": "M"
+    "sexAtBirth": "M",
     "priority": "low"
   }
 ]
